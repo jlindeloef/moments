@@ -19,7 +19,7 @@ const NavBar = () => {
               <i className="fas fa-sign-in-alt"></i>Sign in
             </Nav.Link>
             <Nav.Link>
-              <i className="fas fa-user-plus"></i>Sign up
+              <i className="fas fa-user-plus"></i>Register
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
